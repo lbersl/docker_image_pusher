@@ -1,5 +1,5 @@
 ollama/ollama:latest
 6053537/portainer-ce
-ghcr.nju.edu.cn/open-webui/open-webui:ollama
-ghcr.nju.edu.cn/open-webui/open-webui:latest
+open-webui/open-webui:ollama
+open-webui/open-webui:latest
 mintplexlabs/anythingllm:latest
