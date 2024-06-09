@@ -3,3 +3,5 @@ ollama/ollama:latest
 dyrnq/open-webui:git-de75679-ollama
 dyrnq/open-webui:git-de75679
 mintplexlabs/anythingllm:latest
+jraviles/dump1090
+arm32v7/ubuntu:latest
