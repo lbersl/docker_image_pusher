@@ -1,7 +1,7 @@
+backplane/open-webui:0-ollama
+backplane/open-webui:0
 ollama/ollama:latest
 6053537/portainer-ce
-dyrnq/open-webui:git-de75679-ollama
-dyrnq/open-webui:git-de75679
 mintplexlabs/anythingllm:latest
 jraviles/dump1090
 arm32v7/ubuntu:latest
