@@ -1,5 +1,5 @@
 ollama/ollama:latest
 6053537/portainer-ce
-open-webui/open-webui:ollama
-open-webui/open-webui:latest
+dyrnq/open-webui:git-de75679-ollama
+dyrnq/open-webui:git-de75679
 mintplexlabs/anythingllm:latest
