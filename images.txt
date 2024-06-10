@@ -1,1 +1,1 @@
-backplane/open-webui@sha256:5c7c7d76b1337088b84c972e5b05035b083e3083d8a78571c4d74b586f573624
+--platform arm64 backplane/open-webui:0-ollama
