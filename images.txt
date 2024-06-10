@@ -1,5 +1,5 @@
---platform arm64 backplane/open-webui:0-ollama
---platform arm64 backplane/open-webui:0
+--platform=arm64 backplane/open-webui:0-ollama
+--platform=arm64 backplane/open-webui:0
 ollama/ollama:latest
 6053537/portainer-ce
 mintplexlabs/anythingllm:latest
