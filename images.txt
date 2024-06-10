@@ -1,1 +1,1 @@
---platform="linux/arm64" backplane/open-webui:0-ollama
+--platform=linux/arm64 backplane/open-webui
