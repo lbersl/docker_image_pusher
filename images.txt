@@ -1,5 +1,5 @@
-backplane/open-webui:0-ollama@sha256:5c7c7d76b1337088b84c972e5b05035b083e3083d8a78571c4d74b586f573624
-backplane/open-webui:0@sha256:339e6a58115628c6903e4ddd92aaac281022d31885b691c572cf0f7065805508
+--platform arm64 backplane/open-webui:0-ollama
+--platform arm64 backplane/open-webui:0
 ollama/ollama:latest
 6053537/portainer-ce
 mintplexlabs/anythingllm:latest
