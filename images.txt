@@ -1,1 +1,2 @@
 backplane/open-webui:0-ollama
+corentinth/it-tools:latest
