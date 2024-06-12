@@ -2,3 +2,5 @@ backplane/open-webui:0-ollama
 corentinth/it-tools:latest
 frooodle/s-pdf:latest-fat
 arm64v8/nginx:latest
+arm64v8/debian:latest
+arm64v8/ubuntu:latest
