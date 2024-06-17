@@ -5,3 +5,4 @@ arm64v8/nginx:latest
 louislam/uptime-kuma:latest
 arm64v8/debian:latest
 arm64v8/ubuntu:latest
+zhaojun1998/zfile:latest
