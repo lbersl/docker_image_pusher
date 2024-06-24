@@ -1,9 +1,2 @@
 dyrnq/open-webui:latest
-backplane/open-webui:0-ollama
-corentinth/it-tools:latest
-frooodle/s-pdf:latest-fat
-arm64v8/nginx:latest
-louislam/uptime-kuma:latest
-arm64v8/debian:latest
-arm64v8/ubuntu:latest
-zhaojun1998/zfile:latest
+librechat/librechat:latest
