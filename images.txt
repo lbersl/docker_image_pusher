@@ -1,3 +1,4 @@
+dyrnq/open-webui:latest
 backplane/open-webui:0-ollama
 corentinth/it-tools:latest
 frooodle/s-pdf:latest-fat
