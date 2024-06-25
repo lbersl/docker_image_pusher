@@ -1,2 +1,1 @@
-backplane/open-webui:0.2
-dyrnq/open-webui:latest
+lobehub/lobe-chat:latest
