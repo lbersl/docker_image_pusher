@@ -1,2 +1,1 @@
-dyrnq/open-webui:latest
-ollama/ollama:latest
+liwei2633/gopeed:latest
