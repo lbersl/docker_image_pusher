@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:main
+docker.io/fatwang2/search4all
