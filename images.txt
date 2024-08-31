@@ -1,1 +1,1 @@
-liwei2633/gopeed:latest
+ghcr.io/open-webui:main
