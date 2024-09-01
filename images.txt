@@ -1,1 +1,2 @@
-librechat/librechat:latest
+ghcr.io/open-webui/open-webui:0.3.6
+ghcr.io/open-webui/open-webui:0.3.10
