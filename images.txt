@@ -1,1 +1,2 @@
 docker.io/fatwang2/search4all
+docker.io/jc21/nginx-proxy-manager:latest
