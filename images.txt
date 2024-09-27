@@ -1,1 +1,1 @@
-docker.io/jc21/nginx-proxy-manager:2.11.3
+ghcr.io/open-webui/open-webui:0.3.30
