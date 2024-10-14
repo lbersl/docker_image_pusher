@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:0.3.30
+ydlhero/chatgpt-web-midjourney-proxy:v2.21.5
