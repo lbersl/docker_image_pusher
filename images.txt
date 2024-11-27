@@ -1,1 +1,3 @@
-onlyoffice/documentserver:latest
+jc21/nginx-proxy-manager:v3
+louislam/uptime-kuma:latest
+ghcr.io/open-webui/open-webui:0.4.6
